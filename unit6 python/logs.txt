@@ -1,0 +1,30 @@
+Attempted to create user 'Franz Kafka' at 2023-11-29 00:10:36.652050
+User 'Franz Kafka' created successfully at 2023-11-29 00:10:36.652161
+Attempted to create user 'H. P. Lovecraft' at 2023-11-29 00:10:36.652196
+User 'H. P. Lovecraft' created successfully at 2023-11-29 00:10:36.652324
+Attempted to create user 'William Golding' at 2023-11-29 00:10:36.652380
+User 'William Golding' created successfully at 2023-11-29 00:10:36.652473
+Attempted to create user 'George Orwell' at 2023-11-29 00:10:36.652507
+User 'George Orwell' created successfully at 2023-11-29 00:10:36.652615
+Attempted login for user 'Franz Kafka' at 2023-11-29 00:10:36.652670
+Login failed for user 'Franz Kafka' at 2023-11-29 00:10:36.652746
+Attempted login for user 'Franz Kafka' at 2023-11-29 00:10:36.652794
+Login successful for user 'Franz Kafka' at 2023-11-29 00:10:36.652881
+Attempted login for user 'H. P. Lovecraft' at 2023-11-29 00:10:36.652916
+Login successful for user 'H. P. Lovecraft' at 2023-11-29 00:10:36.652995
+Attempted login for user 'William Golding' at 2023-11-29 00:10:36.653031
+Login successful for user 'William Golding' at 2023-11-29 00:10:36.653096
+Attempted password change for user 'William Golding' at 2023-11-29 00:10:36.653131
+Password changed successfully for user 'William Golding' at 2023-11-29 00:10:36.653311
+Attempted login for user 'George Orwell' at 2023-11-29 00:10:36.653347
+Login failed for user 'George Orwell' at 2023-11-29 00:10:36.653418
+Attempted login for user 'George Orwell' at 2023-11-29 00:10:36.653451
+Login successful for user 'George Orwell' at 2023-11-29 00:10:36.653519
+Attempted password change for user 'George Orwell' at 2023-11-29 00:10:36.653556
+Failed password change for user 'George Orwell' at 2023-11-29 00:10:36.653637
+Attempted password change for user 'George Orwell' at 2023-11-29 00:10:36.653672
+Password changed successfully for user 'George Orwell' at 2023-11-29 00:10:36.653812
+Attempted login for user 'George Orwel' at 2023-11-29 00:10:36.653870
+Attempted login for non-existent user 'George Orwel' at 2023-11-29 00:10:36.653917
+Attempted to create user 'George Orwell' at 2023-11-29 00:10:36.653950
+Attempt to create existing user 'George Orwell' at 2023-11-29 00:10:36.653989
